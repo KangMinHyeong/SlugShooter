@@ -1,0 +1,1130 @@
+[
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\Ammo.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\Ammo.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\AutoSaveTirgger.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\AutoSaveTirgger.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTDecorator_BossHPPercent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTDecorator_BossHPPercent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTDecorator_BossHPisHalf.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTDecorator_BossHPisHalf.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTDecorator_BossHPisQuarter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTDecorator_BossHPisQuarter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTDecorator_BreathCondition.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTDecorator_BreathCondition.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTDecorator_BreathRange.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTDecorator_BreathRange.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTDecorator_TargetDistance.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTDecorator_TargetDistance.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTService_DistanceMeasure.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTService_DistanceMeasure.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTService_PercentBossHP.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTService_PercentBossHP.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTService_PlayerLocationIfSeen.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTService_PlayerLocationIfSeen.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTService_PlayerLocationUpdate.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTService_PlayerLocationUpdate.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTTaskNode_Attack.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTTaskNode_Attack.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTTaskNode_Breath.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTTaskNode_Breath.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTTaskNode_BreathMotion.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTTaskNode_BreathMotion.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTTaskNode_ClearBreathReady.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTTaskNode_ClearBreathReady.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTTaskNode_ClearGodMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTTaskNode_ClearGodMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTTaskNode_EnhanceRush.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTTaskNode_EnhanceRush.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTTaskNode_ExplosionTrapReady.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTTaskNode_ExplosionTrapReady.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTTaskNode_MiddleBoss_Crush.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTTaskNode_MiddleBoss_Crush.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTTaskNode_MiddleBoss_ShieldMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTTaskNode_MiddleBoss_ShieldMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTTaskNode_MiddleBoss_StunAttack.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTTaskNode_MiddleBoss_StunAttack.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTTaskNode_MiddleBoss_VelocityUp.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTTaskNode_MiddleBoss_VelocityUp.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTTaskNode_NormalAttack.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTTaskNode_NormalAttack.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTTaskNode_ProjectileAttack.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTTaskNode_ProjectileAttack.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTTaskNode_RushAttack.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTTaskNode_RushAttack.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTTaskNode_RushReady.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTTaskNode_RushReady.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTTaskNode_SetBreathReady.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTTaskNode_SetBreathReady.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTTaskNode_SetGodMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTTaskNode_SetGodMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTTaskNode_Shoot.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTTaskNode_Shoot.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTTaskNode_SpawnSubOrdinator.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTTaskNode_SpawnSubOrdinator.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTTaskNode_ThrowExplosionTrap.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTTaskNode_ThrowExplosionTrap.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTTask_ClearBlackboardValue.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTTask_ClearBlackboardValue.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTTask_ClearBreathCondition.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTTask_ClearBreathCondition.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTTask_FireBall.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTTask_FireBall.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTTask_OilTrap.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTTask_OilTrap.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTTask_RotatingBoss.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BTTask_RotatingBoss.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BattleSection.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BattleSection.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BossMonster_Stage1.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\BossMonster_Stage1.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\Breath.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\Breath.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\FireStorm.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\FireStorm.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\GameMonster.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\GameMonster.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\GameMonsterAIController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\GameMonsterAIController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\GameplayWidget.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\GameplayWidget.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\Gun.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\Gun.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\GunBox.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\GunBox.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\HPPortion.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\HPPortion.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\KillEmAllGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\KillEmAllGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\LevelPortal.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\LevelPortal.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\MainPlayer.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\MainPlayer.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\MiddleBoss.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\MiddleBoss.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\MonsterSkill.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\MonsterSkill.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\OilTrap.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\OilTrap.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\Portal.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\Portal.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\RangeMonsterCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\RangeMonsterCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\ShooterAIController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\ShooterAIController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\ShooterCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\ShooterCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\ShooterCharacterStat.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\ShooterCharacterStat.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\ShooterGameStateBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\ShooterGameStateBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\ShooterPlayerState.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\ShooterPlayerState.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\ShooterSaveGame.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\ShooterSaveGame.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\ShotGun.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\ShotGun.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\SimpleShooter.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\SimpleShooter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\SimpleShooter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\SimpleShooterGameModeBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\SimpleShooterGameModeBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\SimpleShooterPlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\SimpleShooterPlayerController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\SkillAmmo.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\SkillAmmo.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\TitleGameModeBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\TitleGameModeBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\TitleUIPlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\TitleUIPlayerController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\TitleWidget.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\TitleWidget.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\TriggerComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\SimpleShooter\\SlugShooter\\Source\\SimpleShooter\\TriggerComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\SimpleShooter\\SlugShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	}
+]
